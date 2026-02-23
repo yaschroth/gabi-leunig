@@ -258,7 +258,7 @@ export const config = {
   images: {
     hero: "/beauty/face.jpg",
     heroAlt: "Professionelle Kosmetikbehandlung im Kosmetikinstitut Gabi Leunig",
-    hygiene: "/beauty/behandlung%204.png",
+    hygiene: "/beauty/contact.png",
     gallery: [
       { url: "/beauty/face.jpg", category: "Behandlung" },
       { url: "/beauty/face2.jpg", category: "Behandlung" },
