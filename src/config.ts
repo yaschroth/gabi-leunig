@@ -166,7 +166,7 @@ export const config = {
       title: "Radiofrequenztherapie",
       description: "Effektive Hautstraffung und Kollagenstimulation für ein jugendlicheres Erscheinungsbild ohne operative Eingriffe.",
       price: "auf Anfrage",
-      image: "/beauty/behandlung%204.png",
+      image: "/beauty/hero%20main.webp",
       benefits: ["Lifting ohne OP", "Tiefenwirkung"],
     },
     {
